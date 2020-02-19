@@ -1,10 +1,4 @@
 free
 ====
 
-Old code... salvaged from recycle bin.
-
-Free Realtime Embedded Executive
-
-This is a tiny RTOS for 68k computers.
-
-
+This is a tiny Realtime OS for 68k computers.
